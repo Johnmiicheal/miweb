@@ -1,6 +1,4 @@
-###########################
-# MiTECH WEBSITE PLANNING #
-###########################
+# MiTECH WEBSITE 
 
 Get Mitech Logo @ .png or .svg
 
